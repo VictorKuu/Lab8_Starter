@@ -8,3 +8,5 @@ Name: Victor Ku
 
 4) I would use a unit test to test the max message length of a messaging application. This is because this feature can easily be tested with a single function, making it perfect for unit testing.
 
+<img width="482" alt="E2ETest" src="https://github.com/VictorKuu/Lab8_Starter/assets/96973587/3ccdba41-3f67-44ff-a5a3-faf0cea03b12">
+<img width="349" alt="Unit Test" src="https://github.com/VictorKuu/Lab8_Starter/assets/96973587/fbcbbc06-8b98-41bf-80a2-02ccde0b4240">
